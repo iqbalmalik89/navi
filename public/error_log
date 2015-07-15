@@ -1,0 +1,2 @@
+[07-Jul-2015 05:36:24 UTC] PHP Fatal error:  Class 'AjaxHelpers' not found in /home/wwhitesoft/public_html/navi/app/Http/Controllers/NodiController.php on line 112
+[07-Jul-2015 05:36:50 UTC] PHP Fatal error:  Class 'AjaxHelpers' not found in /home/wwhitesoft/public_html/navi/app/Http/Controllers/NodiController.php on line 112
